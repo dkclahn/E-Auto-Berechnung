@@ -1,0 +1,9 @@
+# Core Dependencies
+pandas>=2.0.0
+matplotlib>=3.7.0
+openpyxl>=3.0.0
+
+# Jupyter & Notebooks
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=7.0.0
